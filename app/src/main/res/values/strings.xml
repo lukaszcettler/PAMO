@@ -1,0 +1,47 @@
+<resources>
+   <string name="app_name">PAMO PROJECT</string>
+   <string name="enter_amount">Enter data</string>
+   <string name="tip_percentage">15%</string>
+   <string name="tip">Tip</string>
+   <string name="total">Total</string>
+   <string name="weight">Your weight</string>
+   <string name="height">Your height</string>
+   <string name="bmi">Your BMI </string>
+   <string name="button_1">BMICalculator</string>
+   <string name="button_2">PPMCalculator</string>
+   <string name="button_3">Food recipes</string>
+   <string name="button_4">BMI calculator History</string>
+   <string name="button_5">Simple Quiz</string>
+   <string name="cal_weight_input">Your weight(kg)</string>
+   <string name="cal_height_input">Your height(cm)</string>
+   <string name="cal_age_input">Your age(years)</string>
+   <string name="cal_gender_input">Male = 0/Female = 1</string>
+   <string name="cal_calories_calculated">Calculated PPM</string>
+   <string name="gender_male">M</string>
+   <string name="gender_female">F</string>
+   <string name="recipe_1">
+         "Fluffy Pancakes\n
+   Ingredients: 1 1/2 cups all-purpose flour, 3 1/2 teaspoons baking powder, 1/2 teaspoon salt, 1 tablespoon sugar, 1 1/4 cups milk, 1 egg, 3 tablespoons melted butter\n
+
+   In a large mixing bowl, combine the flour, baking powder, salt, and sugar.\n
+   In a separate bowl, whisk together the milk, egg, and melted butter.\n
+   Pour the wet mixture into the dry mixture and stir until just combined. It's okay if there are a few lumps.\n
+   Heat a non-stick griddle or skillet over medium heat. Scoop 1/4 cup of batter onto the griddle for each pancake.\n
+   Cook the pancakes until bubbles form on the surface, then flip and cook for another 1-2 minutes until golden brown.\n
+   Remove the pancakes from the griddle and serve warm with your favorite toppings, such as maple syrup, fresh fruit, or whipped cream."
+       </string>
+   <string name="recipe_2">
+      "How to Make Banana Bread \n
+      Ingredients: Flour, baking soda, salt, butter, brown sugar, eggs, bananas \n
+      1. Combine the dry ingredients in one bowl.\n
+      2. Beat the butter and sugar in another bowl. Add the eggs and mashed bananas. \n
+      3. Add the wet mixture to the dry mixture. \n
+      4. Pour the batter into a loaf pan and bake in a preheated oven. "
+   </string>
+   <string name="quiz_question_1">Is social media the only way to meeting new people?</string>
+   <string name="quiz_question_2">Can practicing regular meditation help alleviate stress and enhance mental well-being?</string>
+   <string name="quiz_question_3">Does excessive screen time have a negative impact on the quality of sleep?</string>
+   <string name="quiz_question_4">Are organic foods worth the higher cost for their potential health benefits?</string>
+   <string name="quiz_question_5">Can practicing gratitude on a daily basis enhance overall happiness and well-being?</string>
+   <string name="quiz_question_6">Is regular physical exercise important for maintaining a healthy weight?</string>
+</resources>
